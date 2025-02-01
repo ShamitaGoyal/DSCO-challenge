@@ -17,7 +17,7 @@ html, body {
 }
 
 .purple-box h1{
-    font-family: "Quicksand";
+    font-family: "Quicksand", sans-serif;
     font-weight: 300;
     color: wheat;
     font-size: 4rem;
